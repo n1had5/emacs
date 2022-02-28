@@ -1,0 +1,1 @@
+(nano-theme-set-dark)
